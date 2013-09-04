@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res" >
+            <file
+                name="border"
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/drawable-hdpi/border.xml"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_rewards"
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/layout/activity_rewards.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="link_new_merchant"
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/layout/link_new_merchant.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_orders"
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/layout/list_orders.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="order_dialog"
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/layout/order_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="link_new_merchant"
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/menu/link_new_merchant.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="list_orders"
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/menu/list_orders.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="exp_date" >Expiration Date:
+                </string>
+                <string name="go_to_clover_order" >com.clover.intent.action.START_ORDER_MANAGE
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="title_activity_main" >Scanner
+                </string>
+                <string name="title_activity_list_orders" >OrderActivity
+                </string>
+                <string name="clover_example_url" >http://10.249.2.163:8080
+                </string>
+                <string name="title_activity_new_merchant_link" >MainActivity
+                </string>
+                <string name="cvv" >CVV:
+                </string>
+                <string name="btn_cancel" >Cancel
+                </string>
+                <string name="sbmt_btn" >Submit
+                </string>
+                <string name="button_send" >Scan!
+                </string>
+                <string name="cc_pin" >Credit Card Number:
+                </string>
+                <string name="text_result" >Result: 
+                </string>
+                <string name="clover_order_id" >com.clover.intent.extra.ORDER_ID
+                </string>
+                <string name="clover_refund_intent" >com.clover.intent.action.REFUND_INTENT
+                </string>
+                <string name="zip" >Zip Code:
+                </string>
+                <string name="app_name" >Clover Example
+                </string>
+                <string name="name" >Name:
+                </string>
+                <string name="year" >Year:
+                </string>
+                <string name="clover_pay_intent" >clover.intent.action.PAY
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="month" >Month:
+                </string>
+            </file>
+            <file
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/values-sw600dp/dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/src/debug/res" />
+    </dataSet>
+
+</merger>

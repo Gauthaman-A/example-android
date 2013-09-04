@@ -1,0 +1,20 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377795314000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/build/res/all/debug/values-v11/values.xml
+1377795314000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/build/res/all/debug/menu/main.xml
+1377795314000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1377795314000 125 fae9d1b71d520745438010c9ca7cde9c81dfefac /Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/build/res/all/debug/values-sw720dp-land/values.xml
+1377795314000 6728 2311abe9e498f53323e6a8b85e722c97acb5db2d /Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/build/res/all/debug/layout/link_new_merchant.xml
+1377795314000 217 f02e000d05a079992d2dba18039216c1e6b8784f /Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/build/res/all/debug/values-v14/values.xml
+1377795314000 1455 caa4075f6e8cb2e2e68359f443ae704e5c1077a2 /Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/build/res/all/debug/layout/activity_rewards.xml
+1377795314000 324 5345a9158d63e7a61b6ff58b2dc948d8b00a8a57 /Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/build/res/all/debug/layout/order_dialog.xml
+1377795314000 698 35f4bcc7b087f4d28a3fbf3c82dfd8f0e38c5d32 /Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/build/res/all/debug/drawable-hdpi/border.xml
+1377795314000 674 4f2765dd2b7173df29b1624b85a448571abaabc3 /Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/build/res/all/debug/layout/list_orders.xml
+1377795314000 3760 9d45e7de00dac30e9738dc369dece2835bf9677e /Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1377795314000 24780 6c2954bdacb8129ac00edfd084b98daf226518e3 /Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1377795314000 1882 5f61ec82f5f79ba96c5d90b21f28f0eb2d17daf3 /Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/build/res/all/debug/values/values.xml
+1377795314000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1377795314000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/build/res/all/debug/menu/link_new_merchant.xml
+1377795314000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/build/res/all/debug/menu/list_orders.xml
+1377795314000 649 52e8d9051811c2787c5fc0d0dc7735d67b0820be /Users/richard/dev/clover-example-android/CloverExampleProject/CloverExample/build/res/all/debug/layout/activity_main.xml
