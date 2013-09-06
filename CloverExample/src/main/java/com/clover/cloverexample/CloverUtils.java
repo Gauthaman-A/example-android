@@ -30,7 +30,7 @@ import javax.crypto.Cipher;
 public class CloverUtils {
 
   //final private static String BASE_URL = CloverLoginActivity.BASE_URL;
-  final public static String BASE_URL = "http://www.clover.com";
+  final public static String BASE_URL = "https://www.clover.com";
   private String merchantId;
   private String accessToken;
   private BigInteger modulus;

@@ -152,7 +152,7 @@ public class MainActivity extends Activity {
                                 getString(R.string.clover_example_url) + "/apply_rewards_customer");
                             applyRewards.execute();
                             JSONObject jsonResponse = applyRewards.get();
-                            if(!jsonResponse.get("status").equals("success"))
+                            if(!jsonResponse.get("status").equals("OK"))
                             {
                                 Log.e(TAG, "Applying rewards failed!");
                             }
